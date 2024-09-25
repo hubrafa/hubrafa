@@ -1,0 +1,6 @@
+- Meu nome é Rafael Ramalho
+- Estou estudando na Alura
+- Estou estudando JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+- VOÇÊ PODE ENTRAR EM CONTATO COMIGO
+- @alurastartestudante@@gmail.com
